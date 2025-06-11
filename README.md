@@ -1,5 +1,5 @@
 # sea_level_predictor
-
+![Image Alt Text](sea_level_plot.jpg)
 
 import pandas as pd
 import matplotlib.pyplot as plt
